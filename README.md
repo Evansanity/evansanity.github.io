@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! Here you'll find information about 
 
 ## 📝 About
 
-Hi! I'm [Evan L. Ballesteros], a BSIT Student with experience in Fixing your Electric Fans and Refrigerator. This portfolio showcases my work and provides information about my background and skills.
+Hi! I'm Evan L. Ballesteros, a BSIT Student with experience in Fixing your Electric Fans and Refrigerator. This portfolio showcases my work and provides information about my background and skills.
 
 ## 🚀 Live Demo
 
@@ -27,14 +27,9 @@ Here's a brief overview of the project's structure:
 
 ## 📧 Contact
 
-Feel free to reach out to me via [your email address] or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/evan-ballesteros-4b65aa2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) and [GitHub](https://github.com/evansanity).
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to reach out to me via Evanballesteros32@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/evan-ballesteros-4b65aa2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) and [GitHub](https://github.com/evansanity).
 
 ## 📢 Acknowledgements
 
 - Thanks to my classmate for the design ideas.
 - Special thanks to Github/VScode that helped in the development of this portfolio.
-
