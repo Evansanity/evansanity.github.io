@@ -8,7 +8,7 @@ Hi! I'm [Evan L. Ballesteros], a BSIT Student with experience in Fixing your Ele
 
 ## 🚀 Live Demo
 
-You can view my portfolio live at: [https://evansanity.github.io/portfolio/](https://evansanity.github.io/portfolio/)
+You can view my portfolio live at: [https://evansanity.github.io/portfolio/](https://github.com/Evansanity/evansanity.github.io)
 
 ## 📂 Project Structure
 
@@ -27,7 +27,7 @@ Here's a brief overview of the project's structure:
 
 ## 📧 Contact
 
-Feel free to reach out to me via [your email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and [GitHub](https://github.com/yourusername).
+Feel free to reach out to me via [your email address] or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/evan-ballesteros-4b65aa2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) and [GitHub](https://github.com/evansanity).
 
 ## 🔧 Setup Instructions
 
