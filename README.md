@@ -29,26 +29,12 @@ Here's a brief overview of the project's structure:
 
 Feel free to reach out to me via [your email address] or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/evan-ballesteros-4b65aa2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) and [GitHub](https://github.com/evansanity).
 
-## 🔧 Setup Instructions
-
-To run this project locally:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/portfolio.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio
-    ```
-3. Open `index.html` in your web browser to view the portfolio.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📢 Acknowledgements
 
-- Thanks to [Your Inspirations] for the design ideas.
-- Special thanks to [Any contributors or tools] that helped in the development of this portfolio.
+- Thanks to my classmate for the design ideas.
+- Special thanks to Github/VScode that helped in the development of this portfolio.
 
